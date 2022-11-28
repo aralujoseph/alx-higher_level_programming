@@ -1,8 +1,6 @@
-# This README file is for the alx Simple Shell collaboration project
+# This README file is for 0x00. Python - Hello, World
 
-This project is about a Unix shell which is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.
-
- As a team, we are writing a A simple UNIX command interpreter.
+This project is our first python project on the ALX software engineering journey.
 
 Below are lists of the required tasks to achieve the objectives:
 
