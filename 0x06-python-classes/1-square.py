@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 0-square.py by Ehoneah Obed
+# 0-square.py
 """Defines a square """
 
 
@@ -11,4 +11,4 @@ class Square:
         Args: size - represnets the size of the square defined
         """
 
-        self.__size = size 
+        self.__size = size
