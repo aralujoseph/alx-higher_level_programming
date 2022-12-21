@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# 0-square.py
+# 0-square.py by
+
 """Defines a square """
 
 
