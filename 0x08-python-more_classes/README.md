@@ -1,1 +1,1 @@
-Solutions to task 0x08-python-more_classes
+Solutions to tasks for 0x08-python-more_classes
